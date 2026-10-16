@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Administration | Le Magicien du Style</title>
+<style>
+:root{--ink:#20242b;--muted:#737987;--line:#e7e9ee;--bg:#f5f6fa;--orange:#e98227;--nav:#171b23;--green:#16845b;--red:#bd3434}*{box-sizing:border-box}body{margin:0;font-family:Inter,Arial,sans-serif;color:var(--ink);background:var(--bg)}button,input,select,textarea{font:inherit}button{cursor:pointer}.hidden{display:none!important}.login-wrap{min-height:100vh;display:grid;place-items:center;padding:20px}.login{width:min(420px,100%);background:#fff;border:1px solid var(--line);border-radius:16px;padding:30px;box-shadow:0 18px 60px #18203012}.logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:18px}.mark{background:var(--orange);color:#fff;border-radius:9px;padding:12px}.login h1{font-size:25px;margin:28px 0 6px}.muted{color:var(--muted);font-size:13px;line-height:1.5}.field{display:grid;gap:7px;margin:15px 0}.field label{font-size:12px;font-weight:700}.field input,.field select,.field textarea{border:1px solid #dfe2e8;border-radius:8px;padding:12px;background:#fff;width:100%}.btn{border:0;border-radius:8px;padding:11px 15px;background:var(--orange);color:#fff;font-weight:700}.btn.dark{background:var(--nav)}.btn.light{background:#eff1f5;color:var(--ink)}.btn.danger{background:#fff0f0;color:var(--red)}.btn.small{padding:7px 10px;font-size:12px}.error{color:var(--red);font-size:12px}.app{min-height:100vh;display:grid;grid-template-columns:245px 1fr}.sidebar{background:var(--nav);color:#fff;padding:24px 16px;display:flex;flex-direction:column;gap:26px}.sidebar .logo{font-size:14px}.sidebar .mark{background:var(--orange)}.navlist{display:grid;gap:7px}.navlist button{background:transparent;color:#b9bfcb;border:0;text-align:left;padding:12px;border-radius:8px}.navlist button.active,.navlist button:hover{background:#2a303b;color:#fff}.side-bottom{margin-top:auto;color:#a7adba;font-size:11px;line-height:1.6}.main{min-width:0}.topbar{background:#fff;border-bottom:1px solid var(--line);padding:18px 28px;display:flex;align-items:center;justify-content:space-between;gap:12px}.topbar h1{font-size:21px;margin:0}.topbar p{margin:4px 0 0;color:var(--muted);font-size:12px}.content{padding:26px;max-width:1500px;margin:auto}.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}.stat,.panel{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px}.stat .label{color:var(--muted);font-size:12px}.stat strong{display:block;font-size:27px;margin:10px 0 4px}.stat small{font-size:11px;color:var(--muted)}.panel{margin-top:20px;overflow:hidden}.panel-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:15px}.panel-head h2{font-size:16px;margin:0}.tools{display:flex;gap:8px;flex-wrap:wrap}.tools input,.tools select{border:1px solid var(--line);padding:9px;border-radius:7px;background:#fff}.table-wrap{overflow:auto}table{width:100%;border-collapse:collapse;min-width:760px}th,td{text-align:left;padding:12px 10px;border-bottom:1px solid #eff0f3;font-size:12px;vertical-align:middle}th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.5px;background:#fafbfc}.status{display:inline-block;padding:5px 8px;border-radius:20px;background:#fff2df;color:#8d5517;font-size:10px;white-space:nowrap}.status.green{background:#e7f7ef;color:#16724d}.status.red{background:#ffeded;color:#a42a2a}.actions{display:flex;gap:6px;flex-wrap:wrap}.empty{text-align:center;padding:35px;color:var(--muted)}.form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 16px}.form-grid .full{grid-column:1/-1}.product-item{display:flex;align-items:center;gap:12px}.product-item img{width:48px;height:58px;object-fit:cover;border-radius:6px;background:#eee}.product-item strong{display:block;font-size:12px}.product-item small{color:var(--muted)}.notice{font-size:12px;color:var(--muted);line-height:1.6;background:#fff8ed;border-left:3px solid var(--orange);padding:12px}.toast{position:fixed;bottom:20px;right:20px;background:#20242b;color:#fff;padding:12px 16px;border-radius:9px;z-index:5;font-size:13px;box-shadow:0 5px 20px #0002}.order-detail{white-space:pre-wrap;background:#f7f8fa;border-radius:8px;padding:13px;font-size:12px;line-height:1.6;max-height:250px;overflow:auto}@media(max-width:950px){.app{grid-template-columns:75px 1fr}.sidebar{padding:18px 9px}.sidebar .logo span:not(.mark),.navlist button span,.side-bottom{display:none}.navlist button{text-align:center;font-size:0}.navlist button::first-letter{font-size:17px}.stats{grid-template-columns:repeat(2,1fr)}.content{padding:16px}.topbar{padding:16px}}@media(max-width:600px){.app{display:block}.sidebar{position:sticky;top:0;z-index:3;display:flex;flex-direction:row;justify-content:space-between;padding:9px}.sidebar .logo span:not(.mark){display:block}.navlist{display:flex;gap:2px}.navlist button{padding:10px 8px;font-size:0}.navlist button::first-letter{font-size:16px}.stats{gap:8px}.stat{padding:13px}.stat strong{font-size:22px}.form-grid{grid-template-columns:1fr}.form-grid .full{grid-column:auto}.topbar h1{font-size:18px}.topbar{padding:14px}.content{padding:10px}.panel{padding:12px}}
+</style></head><body>
+<div id="login-screen" class="login-wrap"><form id="login-form" class="login"><div class="logo"><span class="mark">LMS</span><span>Le Magicien du Style<br><small class="muted">ADMINISTRATION</small></span></div><h1>Bon retour.</h1><p class="muted">Connectez-vous pour gérer les commandes et le catalogue.</p><div class="field"><label for="username">Identifiant</label><input id="username" autocomplete="username" required value="admin"></div><div class="field"><label for="password">Mot de passe</label><input id="password" type="password" autocomplete="current-password" required></div><p id="login-error" class="error"></p><button class="btn" style="width:100%">Se connecter</button><p class="muted">Accès réservé à l’administrateur.</p></form></div>
+<div id="app" class="app hidden"><aside class="sidebar"><div class="logo"><span class="mark">LMS</span><span>Le Magicien<br>du Style</span></div><nav class="navlist"><button class="active" data-view="dashboard">▦ <span>Vue générale</span></button><button data-view="orders">▤ <span>Commandes</span></button><button data-view="products">◇ <span>Produits</span></button><button data-view="settings">⚙ <span>Paramètres</span></button></nav><div class="side-bottom">Espace privé d’administration<br>Ne partagez pas vos identifiants.</div></aside><main class="main"><header class="topbar"><div><h1 id="page-title">Vue générale</h1><p>Tableau de bord de votre boutique</p></div><button id="logout" class="btn light">Déconnexion</button></header><div class="content">
+<section id="view-dashboard" class="view"><div class="stats"><div class="stat"><span class="label">Commandes reçues</span><strong id="stat-orders">0</strong><small>Toutes les commandes</small></div><div class="stat"><span class="label">À traiter</span><strong id="stat-pending">0</strong><small>Commandes en cours</small></div><div class="stat"><span class="label">Total des ventes*</span><strong id="stat-revenue">$0.00</strong><small>*Hors commandes annulées; pas un relevé bancaire</small></div><div class="stat"><span class="label">Produits admin</span><strong id="stat-products">0</strong><small>Entrées dans le catalogue admin</small></div></div><div class="panel"><div class="panel-head"><h2>Commandes récentes</h2><button class="btn light small" data-goto="orders">Voir toutes</button></div><div id="recent-orders"></div></div><p class="notice">Important : les commandes envoyées depuis la boutique seront enregistrées sur ce serveur. Les produits ajoutés ici sont conservés dans le fichier de données de l’administration; pour les afficher automatiquement dans la vitrine HTML existante, il faudra connecter le catalogue de la vitrine à cette API.</p></section>
+<section id="view-orders" class="view hidden"><div class="panel"><div class="panel-head"><h2>Gestion des commandes</h2><div class="tools"><input id="order-search" placeholder="Rechercher nom, téléphone, référence"><select id="order-status"><option value="">Tous les statuts</option><option>À confirmer</option><option>Confirmée</option><option>En préparation</option><option>Expédiée</option><option>Livrée</option><option>Annulée</option></select><button class="btn light small" id="export-orders">Exporter CSV</button></div></div><div id="orders-table"></div></div></section>
+<section id="view-products" class="view hidden"><div class="panel"><div class="panel-head"><h2>Catalogue administratif</h2><button class="btn" id="new-product">+ Ajouter un produit</button></div><p class="muted">Les photos doivent être des chemins relatifs comme <code>imagen/robe.jpg</code>. Évitez les chemins de votre ordinateur.</p><div id="products-table"></div></div><div id="product-editor" class="panel hidden"><div class="panel-head"><h2 id="product-editor-title">Ajouter un produit</h2><button class="btn light small" id="cancel-product">Fermer</button></div><form id="product-form"><input type="hidden" id="product-id"><div class="form-grid"><div class="field"><label>Nom *</label><input id="p-name" required maxlength="120"></div><div class="field"><label>Catégorie *</label><select id="p-category"><option>Femme</option><option>Homme</option><option>Chaussures</option><option>Accessoires</option><option>Maison</option></select></div><div class="field"><label>Prix (USD) *</label><input id="p-price" type="number" min="0" step=".01" required></div><div class="field"><label>Ancien prix (USD)</label><input id="p-old-price" type="number" min="0" step=".01"></div><div class="field"><label>Stock</label><input id="p-stock" type="number" min="0" step="1" value="0"></div><div class="field"><label>Chemin photo</label><input id="p-image" placeholder="imagen/robe.jpg" required></div><div class="field"><label>Étiquette</label>
+<div class="field">
+  <label>Photo principale</label>
+  <input id="p-image" placeholder="imagen/robe.jpg" required>
+</div>
+
+<div class="field">
+  <label>Photos de la galerie</label>
+  <input
+    id="p-gallery"
+    placeholder="imagen/robe-2.jpg, imagen/robe-3.jpg"
+  >
+  <small class="muted">
+    Ajoutez les chemins des photos séparés par des virgules.
+  </small>
+</div>
+
+<div class="field">
+  <label>Étiquette</label>
+  <input id="p-tag" placeholder="ÉLÉGANT / NOUVEAU">
+</div>
+<input id="p-tag" placeholder="ÉLÉGANT / NOUVEAU"></div><div class="field"><label>Tailles (séparées par virgules)</label><input id="p-sizes" placeholder="S, M, L, XL"></div><div class="field"><label>Couleurs (séparées par virgules)</label><input id="p-colors" placeholder="Noir, Beige"></div><div class="field"><label>Tissus (séparés par virgules)</label><input id="p-fabrics" placeholder="Armani, Gabardine, Wool England"></div><div class="field full"><label>Description</label><textarea id="p-description" rows="3"></textarea></div><div class="field full"><label><input id="p-active" type="checkbox" checked style="width:auto"> Produit actif</label></div></div><button class="btn">Enregistrer le produit</button></form></div></section>
+
+<div class="field full">
+  <label>Photos de la galerie</label>
+  <input
+    id="p-gallery"
+    placeholder="imagen/robe-1.jpg, imagen/robe-2.jpg"
+  >
+  <small class="muted">
+    Entrez les chemins des photos séparés par des virgules.
+  </small>
+</div>
+
+<section id="view-settin
+gs" class="view hidden"><div class="panel"><div class="panel-head"><h2>Paramètres de la boutique</h2></div><form id="settings-form" class="form-grid"><div class="field"><label>Nom de la boutique</label><input id="s-name" required></div><div class="field"><label>WhatsApp (indicatif pays + numéro)</label><input id="s-whatsapp" placeholder="509XXXXXXXX"></div><div class="field"><label>Délai de livraison affiché</label><input id="s-delivery" placeholder="15–20 jours"></div><div class="field"><label>Devise</label><select id="s-currency"><option value="USD">USD — Dollar américain</option><option value="HTG">HTG — Gourde haïtienne</option><option value="DOP">DOP — Peso dominicain</option></select></div><div class="field full"><button class="btn">Enregistrer les paramètres</button></div></form><p class="notice">Ces paramètres sont enregistrés côté serveur. Ils ne remplacent pas automatiquement les valeurs codées en dur dans la vitrine actuelle.</p></div></section>
+</div></main></div><div id="toast" class="toast hidden"></div>
+<script>
+const $=id=>document.getElementById(id);let state={orders:[],products:[],settings:{}},currentView='dashboard',toastTimer;
+const money=n=>'$'+(Number(n)||0).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+async function api(url,opts={}){const r=await fetch(url,{...opts,headers:{'Content-Type':'application/json',...(opts.headers||{})}});let d={};try{d=await r.json()}catch{}if(!r.ok)throw Error(d.error||'Erreur serveur');return d}
+function toast(msg){$('toast').textContent=msg;$('toast').classList.remove('hidden');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('toast').classList.add('hidden'),3000)}
+function showView(v){currentView=v;document.querySelectorAll('.view').forEach(e=>e.classList.toggle('hidden',e.id!=='view-'+v));document.querySelectorAll('[data-view]').forEach(e=>e.classList.toggle('active',e.dataset.view===v));$('page-title').textContent=({dashboard:'Vue générale',orders:'Commandes',products:'Produits',settings:'Paramètres'})[v];}
+async function refresh(){state=await api('/api/admin/overview');$('stat-orders').textContent=state.stats.orders;$('stat-pending').textContent=state.stats.pending;$('stat-revenue').textContent=money(state.stats.revenue);$('stat-products').textContent=state.stats.products;renderOrders();renderProducts();renderRecent();fillSettings()}
+function badge(s){let cl=s==='Livrée'?'green':s==='Annulée'?'red':'';return `<span class="status ${cl}">${esc(s||'À confirmer')}</span>`}
+function orderRows(orders){if(!orders.length)return '<div class="empty">Aucune commande pour le moment.</div>';return `<div class="table-wrap"><table><thead><tr><th>Référence / date</th><th>Client</th><th>Contact</th><th>Total</th><th>Statut</th><th>Actions</th></tr></thead><tbody>${orders.map(o=>`<tr><td><strong>${esc(o.orderId)}</strong><br><small>${esc(o.createdAt?new Date(o.createdAt).toLocaleString():'')}</small></td><td>${esc(o.name)}<br><small>${esc(o.address)}</small></td><td>${esc(o.phone)}<br><small>${esc(o.payment)}</small></td><td><strong>${money(o.total)}</strong></td><td><select data-status-id="${esc(o.orderId)}">${['À confirmer','Confirmée','En préparation','Expédiée','Livrée','Annulée'].map(s=>`<option ${s===(o.status||'À confirmer')?'selected':''}>${s}</option>`).join('')}</select></td><td><div class="actions"><button class="btn light small" data-detail="${esc(o.orderId)}">Détails</button><button class="btn danger small" data-delete-order="${esc(o.orderId)}">Supprimer</button></div></td></tr>`).join('')}</tbody></table></div>`}
+function renderOrders(){let q=($('order-search')?.value||'').toLowerCase(),st=$('order-status')?.value||'';let arr=state.orders.filter(o=>(!st||o.status===st)&&[o.orderId,o.name,o.phone,o.address].join(' ').toLowerCase().includes(q));$('orders-table').innerHTML=orderRows(arr)}
+function renderRecent(){$('recent-orders').innerHTML=orderRows(state.orders.slice(0,5))}
+function renderProducts(){if(!state.products.length){$('products-table').innerHTML='<div class="empty">Aucun produit dans le catalogue administratif. Ajoutez une entrée pour commencer.</div>';return}$('products-table').innerHTML=`<div class="table-wrap"><table><thead><tr><th>Produit</th><th>Catégorie</th><th>Prix</th><th>Stock</th><th>Visibilité</th><th>Actions</th></tr></thead><tbody>${state.products.map(p=>`<tr><td><div class="product-item"><img src="${esc(p.image)}" onerror="this.style.visibility='hidden'"><div><strong>${esc(p.name)}</strong><small>${esc(p.image)}</small></div></div></td><td>${esc(p.category)}</td><td>${money(p.price)}</td><td>${Number(p.stock)||0}</td><td>${p.active?'<span class="status green">Actif</span>':'<span class="status red">Inactif</span>'}</td><td><div class="actions"><button class="btn light small" data-edit-product="${esc(p.id)}">Modifier</button><button class="btn danger small" data-delete-product="${esc(p.id)}">Supprimer</button></div></td></tr>`).join('')}</tbody></table></div>`}
+function fillSettings(){const s=state.settings||{};$('s-name').value=s.storeName||'Le Magicien du Style';$('s-whatsapp').value=s.whatsapp||'';$('s-delivery').value=s.delivery||'15–20 jours';$('s-currency').value=s.currency||'USD'}
+function editProduct(p={}){$('product-editor').classList.remove('hidden');$('product-editor-title').textContent=p.id?'Modifier le produit':'Ajouter un produit';$('product-id').value=p.id||'';$('p-name').value=p.name||'';$('p-category').value=p.category||'Femme';$('p-price').value=p.price??'';$('p-old-price').value=p.oldPrice||'';$('p-stock').value=p.stock||0;$('p-image').value=p.image||'';$('p-gallery').value =
+  Array.isArray(p.gallery) ? p.gallery.join(', ') : '';$('p-tag').value=p.tag||'NOUVEAU';$('p-sizes').value=p.sizes||'';$('p-colors').value=p.colors||'';$('p-fabrics').value=p.fabrics||'';$('p-description').value=p.description||'';$('p-active').checked=p.active!==false;$('product-editor').scrollIntoView({behavior:'smooth',block:'start'})}
+document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.view)));document.querySelectorAll('[data-goto]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.goto)));
+$('login-form').addEventListener('submit',async e=>{e.preventDefault();$('login-error').textContent='';try{await api('/api/login',{method:'POST',body:JSON.stringify({username:$('username').value,password:$('password').value})});$('login-screen').classList.add('hidden');$('app').classList.remove('hidden');await refresh()}catch(err){$('login-error').textContent=err.message}});
+$('logout').addEventListener('click',async()=>{try{await api('/api/logout',{method:'POST',body:'{}'})}catch{}$('app').classList.add('hidden');$('login-screen').classList.remove('hidden');$('password').value=''});
+$('order-search').addEventListener('input',renderOrders);$('order-status').addEventListener('change',renderOrders);
+document.addEventListener('change',async e=>{if(e.target.matches('[data-status-id]')){try{await api('/api/admin/orders/'+encodeURIComponent(e.target.dataset.statusId),{method:'PATCH',body:JSON.stringify({status:e.target.value})});await refresh();toast('Statut mis à jour.')}catch(err){toast(err.message)}}});
+document.addEventListener('click',async e=>{const d=e.target.closest('[data-detail]');if(d){const o=state.orders.find(x=>x.orderId===d.dataset.detail);if(o)alert(`COMMANDE ${o.orderId}\nClient: ${o.name}\nTéléphone: ${o.phone}\nAdresse: ${o.address}\nEmail: ${o.email||'—'}\nPaiement: ${o.payment}\nTotal: ${money(o.total)}\nStatut: ${o.status}\n\n${o.summary||''}`)}
+const del=e.target.closest('[data-delete-order]');if(del&&confirm('Supprimer définitivement cette commande ?')){try{await api('/api/admin/orders/'+encodeURIComponent(del.dataset.deleteOrder),{method:'DELETE'});await refresh();toast('Commande supprimée.')}catch(err){toast(err.message)}}
+const edit=e.target.closest('[data-edit-product]');if(edit)editProduct(state.products.find(p=>p.id===edit.dataset.editProduct)||{});
+const pd=e.target.closest('[data-delete-product]');if(pd&&confirm('Supprimer ce produit du catalogue administratif ?')){try{await api('/api/admin/products/'+encodeURIComponent(pd.dataset.deleteProduct),{method:'DELETE'});await refresh();toast('Produit supprimé.')}catch(err){toast(err.message)}}
+});
+$('new-product').addEventListener('click',()=>editProduct());$('cancel-product').addEventListener('click',()=>$('product-editor').classList.add('hidden'));
+
+$('product-form').addEventListener('submit', async e => {
+  e.preventDefault();
+
+  const id = $('product-id').value;
+
+  const p = {
+    name: $('p-name').value,
+    category: $('p-category').value,
+    price: Number($('p-price').value),
+    oldPrice: Number($('p-old-price').value) || 0,
+    stock: Number($('p-stock').value) || 0,
+    image: $('p-image').value,
+    gallery: $('p-gallery').value
+      .split(',')
+      .map(photo => photo.trim())
+      .filter(Boolean),
+    tag: $('p-tag').value,
+    sizes: $('p-sizes').value,
+    colors: $('p-colors').value,
+    fabrics: $('p-fabrics').value,
+    description: $('p-description').value,
+    active: $('p-active').checked
+  };
+
+  try {
+    await api(
+      id
+        ? '/api/admin/products/' + encodeURIComponent(id)
+        : '/api/admin/products',
+      {
+        method: id ? 'PATCH' : 'POST',
+        body: JSON.stringify(p)
+      }
+    );
+
+    $('product-editor').classList.add('hidden');
+    await refresh();
+    toast('Produit enregistré.');
+  } catch (err) {
+    toast(err.message);
+  }
+});
+
+$('settings-form').addEventListener('submit',async e=>{e.preventDefault();try{await api('/api/admin/settings',{method:'PUT',body:JSON.stringify({storeName:$('s-name').value,whatsapp:$('s-whatsapp').value,delivery:$('s-delivery').value,currency:$('s-currency').value})});await refresh();toast('Paramètres enregistrés.')}catch(err){toast(err.message)}});
+$('export-orders').addEventListener('click',()=>{const q=[['Référence','Date','Client','Téléphone','Adresse','Paiement','Total','Statut'],...state.orders.map(o=>[o.orderId,o.createdAt,o.name,o.phone,o.address,o.payment,o.total,o.status])];const csv=q.map(row=>row.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const a=document.createElement('a');a.href=URL.createObjectURL(new Blob(['\ufeff'+csv],{type:'text/csv;charset=utf-8'}));a.download='commandes-lms.csv';a.click();URL.revokeObjectURL(a.href)});
+(async()=>{try{const s=await api('/api/session');if(s.authenticated){$('login-screen').classList.add('hidden');$('app').classList.remove('hidden');await refresh()}}catch{}})();
+</script></body></html>

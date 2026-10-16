@@ -1,0 +1,2678 @@
+[
+  {
+    "id": "1",
+    "name": "Robe élégante",
+    "category": "Femme",
+    "price": 35.0,
+    "oldPrice": 49.0,
+    "tag": "TENDANCE",
+    "image": "imagen/Robe elegante 0.jpeg",
+    "gallery": [
+      "imagen/Robe elegante 1.jpeg",
+      "imagen/Robe elegante 2.jpeg",
+      "imagen/Robe elegante 3.jpeg",
+      "imagen/Robe elegante 3.jpeg"
+    ],
+    "sizes": "XS, S, M, L, XL",
+    "colors": "Noir, Blanc, Rouge, Beige",
+    "fabrics": "polyester, Gabardine, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "kilot",
+    "category": "Femme",
+    "price": 18.0,
+    "oldPrice": 35.0,
+    "tag": "ÉLÉGANT",
+    "image": "imagen/robe papiyon 2.avif",
+    "gallery": [
+      "imagen/robe papiyon 1.avif",
+      "imagen/robe papiyon 2.avif",
+      "imagen/robe papiyon 3.avif",
+      "imagen/robe papiyon 4.avif"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "colors": "Noir, Bleu marine, Gris",
+    "fabrics": "polyester, Gabardine, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "3",
+    "name": "Jupe longue sirène épaules dénudées, style luxueux",
+    "category": "Femme",
+    "price": 18.0,
+    "oldPrice": 35.0,
+    "tag": "ÉLÉGANT",
+    "image": "imagen/ki1.jpeg",
+    "gallery": [
+      "imagen/k2.jpeg",
+      "imagen/k3.jpeg",
+      "imagen/k2.jpeg",
+      "imagen/k3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "colors": "Noir, Bleu marine, Gris",
+    "fabrics": "polyester, Gabardine, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "4",
+    "name": "Robe longue argentée à fines bretelles pour femme, fendue, style aristocratique",
+    "category": "femme",
+    "price": 18.99,
+    "oldPrice": 59.2,
+    "tag": "POPULAIRE",
+    "image": "imagen/dress 1.avif",
+    "gallery": [
+      "imagen/dress 3.avif",
+      "imagen/dress 4.avif",
+      "imagen/dress 4.avif",
+      "imagen/dress2.avif"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "polyester, polyester",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "5",
+    "name": "Sac à main moderne",
+    "category": "Femme",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "imagen/top 1.jpeg",
+    "gallery": [
+      "imagen/top 2.jpeg",
+      "imagen/top 3.jpeg",
+      "imagen/top 4.jpeg",
+      "imagen/top 4.jpeg"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "6",
+    "name": "Sac à main moderne",
+    "category": "Femme",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "imagen/kilot 1.jpeg",
+    "gallery": [
+      "imagen/kilot.jpeg",
+      "imagen",
+      "imagen/",
+      "imagen/"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "7",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "imagen/sexi.jpeg",
+    "gallery": [
+      "imagen/sexi1.jpeg",
+      "imagen/sexi 2 (2).jpeg",
+      "imagen/sexi 2.jpeg",
+      "imagen"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "8",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "9",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "10",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "11",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "12",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "13",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "14",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "15",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "16",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "17",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "18",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "19",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "20",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "21",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "22",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "23",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "24",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "25",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "26",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "27",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "28",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "29",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "30",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "31",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "32",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "33",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "34",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "35",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "36",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "37",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "38",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "39",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "40",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "41",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "42",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "43",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "44",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "45",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "46",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "47",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "48",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "49",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "50",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "51",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "52",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "53",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "54",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "55",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "56",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "57",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "58",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "59",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "60",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "61",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "62",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "63",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "64",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "65",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "66",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "67",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "68",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "69",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "70",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "imagen/pr10.png",
+      "imagen/pr4.png",
+      "imagen/pr5.png",
+      "imagen/pr6.png"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "71",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "72",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "73",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "74",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "75",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "76",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "77",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "78",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "79",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "80",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "81",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "82",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "83",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "84",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "85",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "86",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "87",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "88",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "89",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "90",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "91",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "92",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "93",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "94",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "95",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "96",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "97",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "98",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "99",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "100",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "101",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "102",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "103",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "104",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "105",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "106",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "107",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "108",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "109",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "110",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "111",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "112",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "113",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "114",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "115",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "116",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "117",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "118",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "119",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "120",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "121",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "122",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "123",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "124",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "125",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "126",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "127",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "128",
+    "name": "Sac à main moderne",
+    "category": "Accessoires",
+    "price": 28.0,
+    "oldPrice": 39.0,
+    "tag": "POPULAIRE",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Blanc, Marron, Beige",
+    "fabrics": "Cuir synthétique, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "129",
+    "name": "Chemise classique",
+    "category": "Homme",
+    "price": 25.0,
+    "oldPrice": 32.0,
+    "tag": "ESSENTIEL",
+    "image": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "colors": "Blanc, Noir, Bleu, Rose",
+    "fabrics": "Coton, Armani, Gabardine",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "130",
+    "name": "Ensemble chic femme",
+    "category": "Femme",
+    "price": 48.0,
+    "oldPrice": 65.0,
+    "tag": "NOUVEAU",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "XS, S, M, L, XL",
+    "colors": "Noir, Blanc, Beige, Rose",
+    "fabrics": "Armani, Gabardine, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "131",
+    "name": "Montre classique",
+    "category": "Accessoires",
+    "price": 32.0,
+    "oldPrice": 45.0,
+    "tag": "ACCESSOIRE",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Argent, Or",
+    "fabrics": "Acier, Cuir",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "132",
+    "name": "Veste tendance homme",
+    "category": "Homme",
+    "price": 55.0,
+    "oldPrice": 72.0,
+    "tag": "STYLE",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "colors": "Noir, Gris, Bleu marine",
+    "fabrics": "Armani, Gabardine, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "133",
+    "name": "Chaussures élégantes",
+    "category": "Chaussures",
+    "price": 42.0,
+    "oldPrice": 56.0,
+    "tag": "CONFORT",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "36, 37, 38, 39, 40, 41, 42, 43",
+    "colors": "Noir, Marron, Blanc",
+    "fabrics": "Cuir, Cuir synthétique",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "134",
+    "name": "Robe de soirée",
+    "category": "Femme",
+    "price": 60.0,
+    "oldPrice": 79.0,
+    "tag": "OCCASION",
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "XS, S, M, L, XL",
+    "colors": "Noir, Rouge, Bleu, Vert",
+    "fabrics": "Satin, Armani, Wool England",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "135",
+    "name": "Lunettes de soleil",
+    "category": "Accessoires",
+    "price": 18.0,
+    "oldPrice": 25.0,
+    "tag": "PETIT PRIX",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "Unique",
+    "colors": "Noir, Marron, Or",
+    "fabrics": "Plastique, Métal",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "136",
+    "name": "Pull doux",
+    "category": "Femme",
+    "price": 30.0,
+    "oldPrice": 40.0,
+    "tag": "CONFORT",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "S, M, L, XL",
+    "colors": "Crème, Noir, Gris, Rose",
+    "fabrics": "Maille, Laine mélangée",
+    "stock": 0,
+    "description": "",
+    "active": true
+  },
+  {
+    "id": "137",
+    "name": "Baskets décontractées",
+    "category": "Chaussures",
+    "price": 39.0,
+    "oldPrice": 52.0,
+    "tag": "CASUAL",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80"
+    ],
+    "sizes": "36, 37, 38, 39, 40, 41, 42, 43",
+    "colors": "Rouge, Noir, Blanc",
+    "fabrics": "Textile, Synthétique",
+    "stock": 0,
+    "description": "",
+    "active": true
+  }
+]
